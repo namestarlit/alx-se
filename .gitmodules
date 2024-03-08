@@ -46,3 +46,24 @@
 [submodule "foundation/AirBnB_clone_v4"]
 	path = foundation/AirBnB_clone_v4
 	url = git@github.com:namestarlit/AirBnB_clone_v4.git
+[submodule "specialisation/alx-backend-python"]
+	path = specialisation/alx-backend-python
+	url = git@github.com:namestarlit/alx-backend-python.git
+[submodule "specialisation/alx-backend-javascript"]
+	path = specialisation/alx-backend-javascript
+	url = git@github.com:namestarlit/alx-backend-javascript.git
+[submodule "specialisation/alx-backend-storage"]
+	path = specialisation/alx-backend-storage
+	url = git@github.com:namestarlit/alx-backend-storage.git
+[submodule "specialisation/alx-backend-user-data"]
+	path = specialisation/alx-backend-user-data
+	url = git@github.com:namestarlit/alx-backend-user-data.git
+[submodule "specialisation/alx-backend"]
+	path = specialisation/alx-backend
+	url = git@github.com:namestarlit/alx-backend.git
+[submodule "specialisation/alx-interview"]
+	path = specialisation/alx-interview
+	url = git@github.com:namestarlit/alx-interview.git
+[submodule "specialisation/alx-files_manager"]
+	path = specialisation/alx-files_manager
+	url = git@github.com:namestarlit/alx-files_manager.git
