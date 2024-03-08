@@ -4,3 +4,45 @@
 [submodule "foundation/alx-pre_course"]
 	path = foundation/alx-pre_course
 	url = git@github.com:namestarlit/alx-pre_course.git
+[submodule "foundation/alx-low_level_programming"]
+	path = foundation/alx-low_level_programming
+	url = git@github.com:namestarlit/alx-low_level_programming.git
+[submodule "foundation/alx-higher_level_programming"]
+	path = foundation/alx-higher_level_programming
+	url = git@github.com:namestarlit/alx-higher_level_programming.git
+[submodule "foundation/alx-system_engineering-devops"]
+	path = foundation/alx-system_engineering-devops
+	url = git@github.com:namestarlit/alx-system_engineering-devops.git
+[submodule "foundation/printf"]
+	path = foundation/printf
+	url = git@github.com:namestarlit/printf.git
+[submodule "foundation/simple_shell"]
+	path = foundation/simple_shell
+	url = git@github.com:namestarlit/simple_shell.git
+[submodule "foundation/sorting_algorithms"]
+	path = foundation/sorting_algorithms
+	url = git@github.com:namestarlit/sorting_algorithms.git
+[submodule "foundation/binary_trees"]
+	path = foundation/binary_trees
+	url = git@github.com:namestarlit/binary_trees.git
+[submodule "foundation/monty"]
+	path = foundation/monty
+	url = git@github.com:namestarlit/monty.git
+[submodule "foundation/Fix_My_Code_Challenge"]
+	path = foundation/Fix_My_Code_Challenge
+	url = git@github.com:namestarlit/Fix_My_Code_Challenge.git
+[submodule "foundation/RSA-Factoring-Challenge"]
+	path = foundation/RSA-Factoring-Challenge
+	url = git@github.com:namestarlit/RSA-Factoring-Challenge.git
+[submodule "foundation/AirBnB_clone"]
+	path = foundation/AirBnB_clone
+	url = git@github.com:namestarlit/AirBnB_clone.git
+[submodule "foundation/AirBnB_clone_v2"]
+	path = foundation/AirBnB_clone_v2
+	url = git@github.com:namestarlit/AirBnB_clone_v2.git
+[submodule "foundation/AirBnB_clone_v3"]
+	path = foundation/AirBnB_clone_v3
+	url = git@github.com:namestarlit/AirBnB_clone_v3.git
+[submodule "foundation/AirBnB_clone_v4"]
+	path = foundation/AirBnB_clone_v4
+	url = git@github.com:namestarlit/AirBnB_clone_v4.git
