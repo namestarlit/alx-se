@@ -1,0 +1,6 @@
+[submodule "foundation/alx-zero_day"]
+	path = foundation/alx-zero_day
+	url = git@github.com:namestarlit/alx-zero_day.git
+[submodule "foundation/alx-pre_course"]
+	path = foundation/alx-pre_course
+	url = git@github.com:namestarlit/alx-pre_course.git
